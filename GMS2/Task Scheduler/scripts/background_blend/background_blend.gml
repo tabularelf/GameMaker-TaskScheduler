@@ -1,0 +1,1 @@
+layer_background_blend(layer_get_id("Background"),make_colour_hsv(irandom(255),irandom(255),irandom(255)))
